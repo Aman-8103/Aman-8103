@@ -92,14 +92,8 @@
 
 <div align="center">
 <h2><i>✍️ Random Dev Quote</i></h2> 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> </br>
 </div>
 
-<div align="center">
-<h2><i>🔝 Top Contributed Repo</i></h2> 
-![](https://github-contributor-stats.vercel.app/api?username=Aman-8103&limit=5&theme=radical&combine_all_yearly_contributions=true)
-</div>
----
-[![](https://komarev.com/ghpvc/?username=Aman-8103&icon=0&color=13)](https://visitcount.itsvg.in)
-
+<img src="https://komarev.com/ghpvc/?username=Aman-8103&icon=0&color=13" alt="Visitor Count" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
