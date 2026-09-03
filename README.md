@@ -73,5 +73,5 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> </br>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Aman-8103&icon=0&color=13" alt="Visitor Count" />
+![](https://komarev.com/ghpvc/?username=Aman-8103&color=blueviolet&style=flat-square)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
