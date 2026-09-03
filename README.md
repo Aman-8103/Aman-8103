@@ -85,9 +85,9 @@
 
 <h2><i>📊 GitHub Stats:</i></h2>
 
-<img src="https://github-readme-stats.shion.dev/api?username=Aman-8103&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-<img src="https://streak-stats.demolab.com/?user=Aman-8103&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata" /><br/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aman-8103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.shion.dev/api?username=Aman-8103&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img src="https://streak-stats.demolab.com/?user=Aman-8103&theme=github-dark&hide_border=false&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata" /><br/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aman-8103&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <div align="center">
