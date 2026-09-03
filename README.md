@@ -1,26 +1,33 @@
 <div align="center">
   <!-- Dynamic Banner with Aesthetic Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f15bb5,9b5de5,00bbf9&height=250&section=header&text=SHATAKSHI%20SINHA&fontSize=50&desc=Software%20Engineer%20|%20Building%20Scalable%20Systems&descAlignY=70&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://github.com/Aman-8103/Aman-8103/blob/main/Luffy.png" width="100%" height="220px"/>
 </div>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/Aman-8103">
-    <img width="150px" height="70px" src="https://github.com/user-attachments/assets/f31a403d-0022-4cef-a029-ca4cee4720df" /> <a alt="Aman Rathore" /></a>
-</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=35&pause=1000&color=4AC6F7&background=55FF2600&center=true&width=800&lines=%20Artificial%20Intelligence%20and%20Machine%20Learning%20Engineer;Experienced%20Software%20Developer;Always%20learning%20new%20thingsy" alt="Typing SVG" /></a>
 </p>
 
-Email me 👉 ✉️ **amanrathore8103@gmail.com** for collaboration, projects, or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Hardware Bsed Multi-Device Assistive Control
-- 🌱 **I’m currently learning:** Natural Language Processing
-- 📫 **How to reach me:** Are you comedy me...
-- ⚡ **Fun fact:** I Like to do Tech Shits
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" valign="top" style="border: none;">
+      <h2>👩‍💻 About Me</h2>
+      <p>I am an engineering student dedicated to <b>bridging advanced logic and clean code</b> to solve real-world technical challenges at scale. I thrive on tackling difficult algorithmic problems and refining my technical craft.</p>
+      <ul>
+        <li>⚙️ <b>Focus:</b> Software Development, Algorithmic Optimization, and System Architecture.</li>
+        <li>🌱 <b>Passionate:</b> Building robust, efficient systems that bridge the gap between complex logic and scalable architecture.</li>
+        <li>🎮 <b>Beyond the screen:</b> I'm an avid <i>Among Us</i> player who thrives on team strategy and competitive deduction!</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center" style="border: none;">
+      <br/>
+      <!-- UPLOAD KI GAYI PHOTO YAHAN DIKHEGI -->
+      <img src="among-us-coder.png" width="350" style="border-radius: 10px;" alt="Female Coder with Among Us"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Snake Game Repo View -->
 
