@@ -65,10 +65,11 @@ Email me 👉 ✉️ **amanrathore8103@gmail.com** for collaboration, projects, 
 </br>
 </div>
 
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aman-8103&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Aman-8103&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-8103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Aman-8103&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://streak-stats.demolab.com/?user=Aman-8103&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aman-8103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
