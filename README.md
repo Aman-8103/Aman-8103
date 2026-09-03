@@ -35,7 +35,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🌐 Socials:
+<div align="center">
+<h2 ><i>🌐 Socials:</i></h2>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/amanrathore07/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/810a90a7-0358-436f-a071-1ab3d9a77cde"/></a>
@@ -46,11 +47,12 @@
   &#8287;&#8287;&#8287;
   <a href="https://leetcode.com/u/Aman__8103/" alt="Leetcode" title="Leetcode"><img width="42px" src="https://github.com/user-attachments/assets/a16d1bc6-9032-4951-b042-120acf853681"/></a>
  </p>
+ </div>
 
  <div align="center">
 <p align="center">
 
-<h2><i>Language and Tools</i></h2>
+<h2><i>🔨Language and Tools</i></h2>
 </br>
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px" title="Java">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px" title="Python"> 
@@ -79,18 +81,24 @@
 </br>
 </div>
 
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aman-8103&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) <br/>
-![](https://streak-stats.demolab.com/?user=Aman-8103&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aman-8103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2><i>📊 GitHub Stats:</i></h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-readme-stats.shion.dev/api?username=Aman-8103&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img src="https://streak-stats.demolab.com/?user=Aman-8103&theme=blue-green&hide_border=false&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata" /><br/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aman-8103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
-### 🔝 Top Contributed Repo
+<div align="center">
+<h2><i>✍️ Random Dev Quote</i></h2> 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+</div>
+
+<div align="center">
+<h2><i>🔝 Top Contributed Repo</i></h2> 
 ![](https://github-contributor-stats.vercel.app/api?username=Aman-8103&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=Aman-8103&icon=0&color=13)](https://visitcount.itsvg.in)
 
