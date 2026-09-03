@@ -1,5 +1,12 @@
-# 💫 Hi 👋, I'm Aman
-**A passionate Artificial Intelligence and Machine Learning Engineer || Software Developer || From India**
+<p align="center">
+  <a href="https://github.com/Aman-8103">
+    <img width="150px" height="70px" src="https://github.com/user-attachments/assets/f31a403d-0022-4cef-a029-ca4cee4720df" /> <a alt="Aman Rathore" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=35&pause=1000&color=4AC6F7&background=55FF2600&center=true&width=800&lines=%20Artificial%20Intelligence%20and%20Machine%20Learning%20Engineer;Experienced%20Software%20Developer;Always%20learning%20new%20thingsy" alt="Typing SVG" /></a>
+</p>
 
 Email me 👉 ✉️ **amanrathore8103@gmail.com** for collaboration, projects, or Anything Else. 😊😊
 
@@ -15,10 +22,49 @@ Email me 👉 ✉️ **amanrathore8103@gmail.com** for collaboration, projects, 
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luffy_8103) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanrathore07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theaman_R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanrathore8103@gmail.com) 
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/amanrathore07/"><img width="42px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/810a90a7-0358-436f-a071-1ab3d9a77cde"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://twitter.com/theaman_R"><img width="42px" alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/e09117b9-bd5b-4ac3-853b-45abd2454e9f"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/luffy_8103" alt="Insta" title="Instagram"><img width="42px" src="https://github.com/user-attachments/assets/4ac1eec4-019f-42cf-9fd3-251a3468c129"/></a>
+  &#8287;&#8287;&#8287;
+  <a href="https://leetcode.com/u/Aman__8103/" alt="Leetcode" title="Leetcode"><img width="42px" src="https://github.com/user-attachments/assets/a16d1bc6-9032-4951-b042-120acf853681"/></a>
+ </p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+ <div align="center">
+<p align="center">
+
+<h2><i>Language and Tools</i></h2>
+</br>
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px" title="Java">
+ <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px" title="Python"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px" title="JavaScript">
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="auto" width="60px" title="React">
+ <img src="https://github.com/user-attachments/assets/5b9cc5ed-5797-425b-8dd3-618b2813119d" height="auto" width="60px" title="FastAPT">
+ <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px" title="Tensorflow">
+ <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="auto" width="60px" title="PyTorch">
+ <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" height="auto" width="60px" title="Numpy">
+ <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px" title="Github">
+ <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130px" title="Jupyter">
+ <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="auto" width="60px" title="Cloudflare">
+ <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="auto" width="60px" title="MySQL">
+ <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="auto" width="60px" title="PostgreSQL">
+ <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" height="auto" width="60px" title="Flask">
+ <img src="https://github.com/user-attachments/assets/0749c88e-3206-4889-abf4-9dcef76a0f22" height="auto" width="100px" title="Vercel">
+ <img src="https://github.com/user-attachments/assets/b8bd700c-4ccd-4577-9efc-a380b51eb3d4" height="auto" width="100px" title="Render">
+ <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="auto" width="60px" title="Netlify">
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="auto" width="60px" title="Git">
+ <img src="https://github.com/user-attachments/assets/dc2fe1d9-acdf-4c3b-9ae2-d2a7fe1b339c" height="auto" width="60px" title="Express.js">
+ <img src="https://github.com/user-attachments/assets/05ace20b-0586-4ef5-9ee6-8d397a8e500d" height="auto" width="60px" title="Django">
+ 
+<!--  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px"> -->
+ 
+</br>
+</br>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Aman-8103&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Aman-8103&theme=dark&hide_border=false)<br/>
