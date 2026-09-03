@@ -50,35 +50,13 @@
  </div>
 
  <div align="center">
-<p align="center">
+<h2><i>🛠️ Tech Stack & Tools</i></h2>
+<p>
+  <!-- Center aligned and width increased to 85% for bigger, evenly spread icons -->
+  <img src="https://skillicons.dev/icons?i=java,py,js,react,nodejs,nextjs,express,tailwind,mongodb,mysql,postgres,git,github,netlify,opencv,pytorch,vercel,html,css,ts,docker,supabase,kubernetes&theme=dark&perline=10" alt="Skills Icons" width="85%" align="center"/>
+</p>
 
-<h2><i>🔨Language and Tools</i></h2>
-</br>
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="60px" title="Java">
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="auto" width="60px" title="Python"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" height="auto" width="60px" title="JavaScript">
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="auto" width="60px" title="React">
- <img src="https://github.com/user-attachments/assets/5b9cc5ed-5797-425b-8dd3-618b2813119d" height="auto" width="60px" title="FastAPT">
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px" title="Tensorflow">
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="auto" width="60px" title="PyTorch">
- <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" height="auto" width="60px" title="Numpy">
- <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="auto" width="60px" title="Github">
- <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="auto" width="130px" title="Jupyter">
- <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="auto" width="60px" title="Cloudflare">
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="auto" width="60px" title="MySQL">
- <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="auto" width="60px" title="PostgreSQL">
- <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" height="auto" width="60px" title="Flask">
- <img src="https://github.com/user-attachments/assets/0749c88e-3206-4889-abf4-9dcef76a0f22" height="auto" width="100px" title="Vercel">
- <img src="https://github.com/user-attachments/assets/b8bd700c-4ccd-4577-9efc-a380b51eb3d4" height="auto" width="100px" title="Render">
- <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="auto" width="60px" title="Netlify">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="auto" width="60px" title="Git">
- <img src="https://github.com/user-attachments/assets/dc2fe1d9-acdf-4c3b-9ae2-d2a7fe1b339c" height="auto" width="60px" title="Express.js">
- <img src="https://github.com/user-attachments/assets/05ace20b-0586-4ef5-9ee6-8d397a8e500d" height="auto" width="60px" title="Django">
- 
-<!--  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="130px"> -->
- 
-</br>
-</br>
+<br/>
 </div>
 
 <div align="center">
