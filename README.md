@@ -24,7 +24,7 @@
     <td width="40%" valign="top" align="center" style="border: none;">
       <br/>
       <!-- UPLOAD KI GAYI PHOTO YAHAN DIKHEGI -->
-      <img src="among-us-coder.png" width="350" style="border-radius: 10px;" alt="Female Coder with Among Us"/>
+      <img src="https://github.com/Aman-8103/Aman-8103/blob/main/Star_Coder.png" width="350" style="border-radius: 10px;" alt="Female Coder with Among Us"/>
     </td>
   </tr>
 </table>
