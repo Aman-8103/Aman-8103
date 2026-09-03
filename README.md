@@ -1,3 +1,10 @@
+<div align="center">
+  <!-- Dynamic Banner with Aesthetic Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f15bb5,9b5de5,00bbf9&height=250&section=header&text=SHATAKSHI%20SINHA&fontSize=50&desc=Software%20Engineer%20|%20Building%20Scalable%20Systems&descAlignY=70&descAlign=50&fontColor=ffffff" width="100%"/>
+</div>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/Aman-8103">
     <img width="150px" height="70px" src="https://github.com/user-attachments/assets/f31a403d-0022-4cef-a029-ca4cee4720df" /> <a alt="Aman Rathore" /></a>
